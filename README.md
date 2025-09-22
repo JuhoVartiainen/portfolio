@@ -1,4 +1,4 @@
-# Future Data Scientist
+# Juho Vartiainen
 
 ### Education
 Studying Bachelors of Science - Mathemathics and Statistical data-analysis
